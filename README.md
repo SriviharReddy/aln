@@ -53,7 +53,7 @@ work
 /data/local/tmp/overlay/upper:
 libbluetooth_jni.so
 ```
-- Create a duplicate of the overlay folder inside tmp  and name it overlay2.
+- Create a duplicate of the overlay folder inside `tmp` and name it `overlay2`.
 
 #### Step 3: Add the Boot Script
 
